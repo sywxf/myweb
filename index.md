@@ -9,7 +9,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown 
-代码区由 三个 ` 开始,三个同样符号结束.
 Syntax highlighted code block
 
 # Header 1 (标题1)
